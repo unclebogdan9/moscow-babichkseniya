@@ -1,0 +1,10 @@
+.Russian {
+    padding: 10px;
+    overflow: hidden;
+}
+
+.Russian img {
+    margin-right: 10px;
+    border: 1px solid #000;
+    float: left;
+}
